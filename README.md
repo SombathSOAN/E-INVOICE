@@ -217,4 +217,4 @@ python-multipart # File upload support
 
 ---
 
-🎉 **Your FastAPI CSV/Excel Data Manager is ready to use!**
+🎉 **Your FastAPI CSV/Excel Data Manager is ready to use!**# E-INVOICE
